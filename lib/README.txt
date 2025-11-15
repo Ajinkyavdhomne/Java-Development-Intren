@@ -1,0 +1,1 @@
+Place your mysql-connector-j.jar here and rename it to mysql.jar

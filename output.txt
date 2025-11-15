@@ -1,0 +1,5 @@
+=== File Processing Results ===
+Total Lines: 3
+Non-Empty Lines: 3
+Total Words: 13
+Total Characters: 69
