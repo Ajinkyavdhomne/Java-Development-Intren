@@ -1,5 +1,5 @@
 === File Processing Results ===
-Total Lines: 3
-Non-Empty Lines: 3
-Total Words: 13
-Total Characters: 69
+Total Lines: 4
+Non-Empty Lines: 4
+Total Words: 20
+Total Characters: 94

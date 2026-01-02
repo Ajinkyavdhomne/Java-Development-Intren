@@ -47,3 +47,7 @@ class MessageReceiver implements Runnable {
         }
     }
 }
+
+// To run the client, compile and execute the ChatClient class.
+//javac ChatClient.java
+//java ChatClient

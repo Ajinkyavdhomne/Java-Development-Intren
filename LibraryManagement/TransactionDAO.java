@@ -49,12 +49,10 @@ public class TransactionDAO {
     }
 
     public void viewTransactions(int nextInt) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'viewTransactions'");
     }
 
     public void recordTransaction(int wId, String string, double wAmt) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'recordTransaction'");
     }
 }

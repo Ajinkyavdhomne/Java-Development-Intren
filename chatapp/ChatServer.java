@@ -63,3 +63,7 @@ class ClientHandler implements Runnable {
     }
 }
 
+
+// To run the server, compile and execute the ChatServer class.
+//javac ChatServer.java
+//java ChatServer

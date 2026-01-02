@@ -72,3 +72,10 @@ public class LibraryManagementSystem {
         }
     }
 }
+
+
+
+// for compiler: javac LibraryManagementSystem.java
+// for run: java LibraryManagementSystem
+// java -cp ".;lib/mysql.jar" LibraryManagementSystem
+

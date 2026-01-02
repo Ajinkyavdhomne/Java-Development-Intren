@@ -84,3 +84,8 @@ public class BankManagementSystem {
         }
     }
 }
+
+
+//for compiler: javac BankManagementSystem.java
+//for compiler: java BankManagementSystem
+//for run : java -cp ".;lib/mysql.jar" BankManagementSystem
